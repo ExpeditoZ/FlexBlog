@@ -5,6 +5,13 @@ A proposta é demonstrar como criar estruturas flexíveis, alinháveis e totalme
 
 ---
 
+## 🌐 Deploy
+
+Acesse o projeto online em:  
+👉 **https://expeditoz.github.io/BikCraft/**
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 ### **HTML5**
